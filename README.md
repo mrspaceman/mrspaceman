@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 [![Andy's github stats](https://github-readme-stats.vercel.app/api?username=mrspaceman)](https://github.com/mrspaceman)
+-->
 
 [My Stack Overflow Profile](https://stackoverflow.com/users/2182733/andy-aspell-clark?tab=profile)
 
